@@ -1,0 +1,15 @@
+Ativar virtual env   - /script activate
+Criar projeto Django  - /blog django-admin startproject blog
+Rodar o projeto - Python manage.py runserver
+Para para Servidor CTRL C
+Criar tabelas BD - python manage.py migrate
+Criar super usuário - python manage.py createsuperuser
+Criar app - python manage.py  startapp "nome da app"
+git
+Criar git repositorio  - git init
+Fazer um commit   - 
+git add .
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/OriveltonSilva/cursodjango3.git
+git push -u origin master                    
